@@ -19,6 +19,9 @@ import upgrad.movieapp.service.common.exception.AuthorizationFailedException;
 import upgrad.movieapp.service.common.exception.EntityNotFoundException;
 import upgrad.movieapp.service.common.exception.GenericErrorCode;
 
+
+//various handlers
+
 @ControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler {
 
