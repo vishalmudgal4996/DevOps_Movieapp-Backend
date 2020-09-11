@@ -11,8 +11,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/moviedb
     username: postgres
-    password: postgres
-
+    password: postgres@123
   jpa:
     properties:
       hibernate:
